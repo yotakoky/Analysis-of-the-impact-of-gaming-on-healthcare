@@ -1,4 +1,4 @@
-# Analysis of the Impact of Gaming on Healthcare
+# The Future of Work: AI and Automation
 
 ## 📚 Project Information
 - **Instructor:** Aml Mahmoud  
@@ -12,4 +12,4 @@
 5. Tasneem Ayman  
 
 ## 📌 Description
-This project analyzes how gaming technologies influence healthcare, including rehabilitation, mental health support, patient engagement, and medical training. It highlights both the benefits (such as improved motivation and treatment outcomes) and potential risks like gaming addiction, providing insights into how gaming can be effectively integrated into healthcare systems.
+This project analyzes how AI adoption and automation technologies are reshaping the workforce across industries. Using real-world job posting data, labor statistics, and AI tool adoption metrics, the project identifies which roles are most exposed to automation, which roles are augmented, and how required skills are evolving over time.
